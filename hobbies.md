@@ -12,6 +12,8 @@ leer
 bailar
 danzar
 
+Hola Marta
+Adios Marta
 holaa alex
 
 adios alex
